@@ -3,6 +3,18 @@
   "displayName": "nord pro",
   "description": "A VS Code theme based on the nord color palette.",
   "version": "0.0.1",
+  "publisher": "MwaleJonathan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mwale-Jonathan/nord-pro"
+  },
+  "keywords": [
+    "theme",
+    "nord",
+    "dark",
+    "color scheme",
+    "visual studio code"
+  ],
   "engines": {
     "vscode": "^1.100.0"
   },
